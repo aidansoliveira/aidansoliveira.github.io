@@ -29,4 +29,3 @@ My research interests include neighborhood effects, urban network models, spatia
     attention to how specialization, density, and spatial structure interact across subcenters within large metropolitan areas.
   </p>
 </div>
-</div>
