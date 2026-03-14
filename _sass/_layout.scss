@@ -82,6 +82,31 @@ body.sticky-bottom-footer {
   font-style: italic;
 }
 
+
+.post .post-content,
+.page .post-content {
+  font-size: 1.1rem;
+}
+
+.profile {
+  width: 30%;
+}
+
+.profile + .clearfix,
+.profile ~ .clearfix,
+.profile + .post,
+.profile + div {
+  width: 100%;
+}
+
+.about .post {
+  font-size: 1.1rem;
+}
+
+.about .post .post-content {
+  font-size: 1.1rem;
+}
+
 .research-entry p:last-child {
   margin-bottom: 0;
 }
