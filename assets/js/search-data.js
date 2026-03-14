@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Resume/";
           },
+        },{id: "nav-research",
+          title: "Research",
+          description: "My goal is to do research in neighborhood effects, urban network models, spatial equilibrium models, agglomeration economies, spatial trade dynamics, innovation across space, local public finance, zoning, urban economic history, and related spatial and urban topics. Below are projects that I am actively working on. These began as thesis topics, and I am continuing to develop them toward publication. Please feel free to reach out with any questions.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
