@@ -76,37 +76,47 @@
 
 html[data-theme="dark"] {
   color-scheme: dark;
-  --global-bg-color: #0b1120;
-  --global-code-bg-color: #111827;
+
+  --global-bg-color: #1e1b4b;
+  --global-code-bg-color: #312e81;
   --global-text-color: #e5e7eb;
-  --global-text-color-light: #aeb8c9;
+  --global-text-color-light: #c7d2fe;
+
   --global-theme-color: #818cf8;
   --global-hover-color: #a5b4fc;
   --global-hover-text-color: #ffffff;
-  --global-footer-bg-color: #111827;
-  --global-footer-text-color: #cbd5e1;
-  --global-footer-link-color: #e0e7ff;
-  --global-distill-app-color: #cbd5e1;
-  --global-divider-color: rgba(148, 163, 184, 0.22);
-  --global-card-bg-color: #111827;
+
+  --global-footer-bg-color: #1e1b4b;
+  --global-footer-text-color: #c7d2fe;
+  --global-footer-link-color: #c7d2fe;
+
+  --global-distill-app-color: #c7d2fe;
+  --global-divider-color: rgba(199, 210, 254, 0.25);
+
+  --global-card-bg-color: #312e81;
+
   --global-back-to-top-bg-color: rgba(
     #{color.channel(v.$white-color, "red", v.$space: rgb)},
     #{color.channel(v.$white-color, "green", v.$space: rgb)},
     #{color.channel(v.$white-color, "blue", v.$space: rgb)},
-    0.18
+    0.25
   );
+
   --global-back-to-top-text-color: #ffffff;
-  --global-newsletter-bg-color: #111827;
+
+  --global-newsletter-bg-color: #312e81;
   --global-newsletter-text-color: #e5e7eb;
 
   --global-tip-block: #42b983;
-  --global-tip-block-bg: #163d31;
-  --global-tip-block-text: #c8f5df;
+  --global-tip-block-bg: #1b4d3e;
+  --global-tip-block-text: #d1fae5;
   --global-tip-block-title: #e2f5ec;
+
   --global-warning-block: #e7c000;
-  --global-warning-block-bg: #5c4b00;
-  --global-warning-block-text: #fff2af;
+  --global-warning-block-bg: #6b5c00;
+  --global-warning-block-text: #fff8d8;
   --global-warning-block-title: #fff8d8;
+
   --global-danger-block: #c00;
   --global-danger-block-bg: #5a0f1a;
   --global-danger-block-text: #ffc9cf;
