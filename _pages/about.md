@@ -1,50 +1,35 @@
 ---
 layout: about
-title: Aidan Soares Oliveira
+title: about
 permalink: /
-subtitle: Research Analyst at the <a href="https://www.piie.com/" target="_blank">Peterson Institute for International Economics</a>
+subtitle: Research Analyst at the <a href="https://www.piie.com/"
+target="_blank">Peterson Institute for International Economics</a>
 
 profile:
   align: right
   image: aidan-oliveira.jpg
-  image_circular: false
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p><strong>Research Interests</strong></p>
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
-    <p>Urban and Spatial Economics<br>
-    Labor Economics<br>
-    International Trade</p>
-
-    <p><strong>Previously</strong></p>
-
-    <p>Federal Reserve Bank of New York<br>
-    Federal Reserve Bank of Philadelphia<br>
-    Tufts University</p>
-
-selected_papers: true
-social: true
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false
-  scrollable: true
-  limit: 5
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: false
-  scrollable: true
-  limit: 3
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Research Analyst at the Peterson Institute for International Economics, where I work with [Jed Kolko](https://www.piie.com/experts/senior-research-staff/jed-kolko) on projects related to U.S. economic measurement and public policy. Previously, I was a Research Analyst in Money and Payment Studies at the Federal Reserve Bank of New York.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-My research interests lie primarily in urban economics, spatial economics, labor economics, and international trade. Broadly, I am interested in how the spatial organization of economic activity shapes productivity, labor markets, and long-run economic development. My recent work has focused on agglomeration economies, occupational specialization, and establishment-level outcomes using large administrative datasets.
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-My master's thesis at Tufts University studies how occupational specialization within establishments affects growth and wages using Brazil's RAIS matched employer–employee data. I construct a subsector–occupation complementarity measure and examine how the relationship between specialization and establishment performance varies with urban density and across tradable and nontradable sectors. More generally, I am interested in combining structural economic models with spatially granular microdata to study cities, firms, labor markets, and trade.
-
-Before joining PIIE, I worked with labor-market, financial, and firm-level data at the Federal Reserve Bank of New York; served as a Machine Learning Graduate Summer Intern at the Federal Reserve Bank of Philadelphia; and worked as a research assistant and teaching assistant at Tufts University.
-
-I hold an M.S. in Economics from Tufts University, where I was a Future Leaders Fellow; an M.A. in Regional Science from Cornell University; and a B.A. in Economics and Mathematics, with a minor in Urban Studies, from New College of Florida.
-
-## Current Research
-
-I am currently studying the relationship between occupational specialization, agglomeration economies, and establishment performance using matched employer–employee data from Brazil.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
