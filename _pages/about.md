@@ -9,11 +9,19 @@ profile:
 align: right
 image: aidan-oliveira.jpg
 image_circular: false # crops the image to make it circular
-more_info: > <p><strong>Research interests</strong></p> <p>Urban and spatial economics<br>
-Labor economics<br>
-International trade</p> <p><strong>Previously</strong></p> <p>Federal Reserve Bank of New York<br>
-Federal Reserve Bank of Philadelphia<br>
-Tufts University</p>
+more_info: >
+    <p><strong>Research Interests</strong></p>
+
+    <p>Urban and Spatial Economics<br>
+    Labor Economics<br>
+    International Trade</p>
+
+    <p><strong>Previously</strong></p>
+
+    <p>Peterson Institute for International Economics<br>
+    Federal Reserve Bank of New York<br>
+    Federal Reserve Bank of Philadelphia<br>
+    Tufts University</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
