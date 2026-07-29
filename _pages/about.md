@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Analyst at the <a href="https://www.piie.com/"
-target="_blank">Peterson Institute for International Economics</a>
+subtitle: Research Analyst at the 
 
 profile:
   align: right
