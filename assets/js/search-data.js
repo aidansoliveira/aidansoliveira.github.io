@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-",
-    title: "",
+    id: "nav-aidan-soares-oliveira",
+    title: "Aidan Soares Oliveira",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
