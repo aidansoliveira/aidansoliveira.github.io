@@ -8,24 +8,22 @@ profile:
   align: right
   image: aidan-oliveira.jpg
   image_circular: false
-  more_info: >
-    <p>
-      <span style="font-weight:600;">Research Interests</span><br>
-      <span style="padding-left:1em;">
-        Urban and Spatial Economics<br>
-        Labor Economics<br>
-        International Trade
-      </span>
-    </p>
+more_info: >
+  <p><strong>Research Interests</strong></p>
 
-    <p style="margin-top:1.2em;">
-      <span style="font-weight:600;">Previous Positions</span><br>
-      <span style="padding-left:1em;">
-        Federal Reserve Bank of New York<br>
-        Federal Reserve Bank of Philadelphia<br>
-        Tufts University
-      </span>
-    </p>
+  <ul style="margin-top:0.2em; padding-left:1.2em;">
+    <li>Urban and Spatial Economics</li>
+    <li>Labor Economics</li>
+    <li>International Trade</li>
+  </ul>
+
+  <p><strong>Previous Positions</strong></p>
+
+  <ul style="margin-top:0.2em; padding-left:1.2em;">
+    <li>Federal Reserve Bank of New York</li>
+    <li>Federal Reserve Bank of Philadelphia</li>
+    <li>Tufts University</li>
+  </ul>
 
 selected_papers: true
 social: true
