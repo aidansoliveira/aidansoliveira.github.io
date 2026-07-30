@@ -23,8 +23,8 @@ profile:
       <li>Tufts University</li>
     </ul>
 
-selected_papers: true
-social: true
+selected_papers: false
+social: false
 
 announcements:
   enabled: false
