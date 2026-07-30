@@ -12,8 +12,8 @@ profile:
     <p><strong>Research Interests</strong></p>
     <ul style="margin-top: 0.2em; padding-left: 1.2em;">
       <li>Urban and Spatial Economics</li>
-      <li>Labor Economics</li>
-      <li>International Trade</li>
+      <li>Labor Economics/IO</li>
+      <li>Local Public Finance</li>
     </ul>
 
     <p><strong>Previous Positions</strong></p>
