@@ -10,7 +10,7 @@ description: "Research page"
 My research interests include the following: neighborhood effects, urban network models, spatial equilibrium models, agglomeration economies, spatial trade dynamics, structural spatial models, innovation across space, local public finance, Tiebout sorting, capitalization into land and house prices, zoning, location theory, urban economic history, and related spatial and urban topics. Below are projects that I am actively working on. These began as thesis topics, and I am continuing to develop them with the goal of getting them to a state where they can be published. Please feel free to reach out with any questions.
 
 ## Working Papers
-(These are all drafts. Please do not cite)
+(These are all drafts. Please do not cite any paper here.)
 
 <div class="research-entry">
   <h3><a href="/assets/pdf/occupation_subsector_complementarity.pdf" target="_blank">Occupation-Subsector Complementarity on Establishment-Level Growth</a></h3>
