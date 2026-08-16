@@ -13,6 +13,7 @@ profile:
     <ul style="margin-top: 0.2em; padding-left: 1.2em;">
       <li>Urban and Spatial Economics</li>
       <li>Labor Economics/IO</li>
+      <li>Spatial Finance</li>
       <li>Local Public Finance</li>
     </ul>
 
