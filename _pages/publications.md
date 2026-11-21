@@ -13,8 +13,8 @@ My research interests include the following: neighborhood effects, urban network
 (These are all drafts. Please do not cite any paper here.)
 
 <div class="research-entry">
-  <h3><a href="/assets/pdf/occupation_subsector_complementarity.pdf" target="_blank">Occupation-Subsector Complementarity on Establishment-Level Growth</a></h3>
-  <p class="research-meta">Working paper</p>
+  <h3><a href="/assets/pdf/occupation_subsector_complementarity.pdf" target="_blank">The Role of Occupation-Subsector Complementarity on Establishment-Level Growth</a></h3>
+<p class="research-meta">Working paper &middot; <a href="/assets/pdf/Occ_Sub_Comp_slides.pdf" target="_blank" rel="noopener noreferrer">Slides</a></p>
   <p>
     This paper studies how complementarities between occupations and subsectors shape establishment-level growth.
     The project develops measures of specialization within establishments and examines how those complementarities
