@@ -19,9 +19,18 @@ profile:
 
     <p style="font-family: Georgia, serif;"><strong>Previous Positions</strong></p>
     <ul style="margin-top: 0.2em; padding-left: 1.2em; font-family: Georgia, serif;">
-      <li>Federal Reserve Bank of New York</li>
-      <li>Federal Reserve Bank of Philadelphia</li>
-      <li>Tufts University</li>
+      <li>
+        Research Analyst,
+        <div>Federal Reserve Bank of New York</div>
+      </li>
+      <li>
+        Machine Learning Summer Intern,
+        <div>Federal Reserve Bank of Philadelphia</div>
+      </li>
+      <li>
+         RA and TA,
+         <div>Tufts University</div>
+      </li>
     </ul>
 
 selected_papers: false
