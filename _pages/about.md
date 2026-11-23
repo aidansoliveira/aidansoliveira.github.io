@@ -17,7 +17,7 @@ profile:
       <li>Local Public Finance</li>
     </ul>
 
-    <p style="font-family: Georgia, serif;"><strong>Previous Positions</strong></p>
+    <p style="font-family: Georgia, serif;"><strong>Previous Positions:</strong></p>
     <ul style="margin-top: 0.2em; padding-left: 1.2em; font-family: Georgia, serif;">
       <li>
         Research Analyst,
