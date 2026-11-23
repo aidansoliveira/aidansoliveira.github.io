@@ -9,7 +9,7 @@ profile:
   image: aidan-oliveira.jpg
   image_circular: false
   more_info: >
-    <p style="font-family: Georgia, serif;"><strong>Research Interests</strong></p>
+    <p style="font-family: Georgia, serif;"><strong>Research Interests:</strong></p>
     <ul style="margin-top: 0.2em; padding-left: 1.2em; font-family: Georgia, serif;">
       <li>Urban and Spatial Economics</li>
       <li>Labor Economics/IO</li>
