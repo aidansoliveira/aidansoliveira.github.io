@@ -26,7 +26,6 @@ My research interests include the following: neighborhood effects, urban network
   <h3><a href="/assets/pdf/agglomeration_premium_polycentric_cities.pdf" target="_blank">Agglomeration Premium in Polycentric Cities</a></h3>
   <p class="research-meta">Working paper</p>
   <p>
-    This paper examines how agglomeration advantages operate in polycentric urban environments, with particular
-    attention to how specialization, density, and spatial structure interact across subcenters within large metropolitan areas.
+    This paper develops a spatial equilibrium model of polycentric cities in which agglomeration economies generate endogenous, location-specific wage premia. It examines how firm location, commuting costs, and land rents interact to shape urban density, residential sorting, and welfare.
   </p>
 </div>
