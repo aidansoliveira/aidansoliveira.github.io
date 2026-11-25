@@ -16,9 +16,7 @@ My research interests include the following: neighborhood effects, urban network
   <h3><a href="/assets/pdf/occupation_subsector_complementarity.pdf" target="_blank">The Role of Occupation-Subsector Complementarity on Establishment-Level Growth</a></h3>
 <p class="research-meta">Working paper &middot; <a href="/assets/pdf/Occ_Sub_Comp_slides.pdf" target="_blank" rel="noopener noreferrer">Slides</a></p>
   <p>
-    This paper studies how complementarities between occupations and subsectors shape establishment-level growth.
-    The project develops measures of specialization within establishments and examines how those complementarities
-    relate to firm performance, local agglomeration forces, and broader urban structure.
+    This paper investigates whether establishments grow larger when their workforces are concentrated in occupations with a revealed comparative advantage in their subsector. Using Brazilian administrative employment data, it develops a measure of occupation–subsector complementarity, provides a theoretical framework for interpreting the measure, and examines its relationship to establishment growth and agglomeration economies.
   </p>
 </div>
 
